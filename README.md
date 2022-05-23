@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nativosa
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning react, python and a few more...
+- 🌱 I’m currently learning react, python, docker and a few more...
 - 💞️ I’m looking to collaborate on at least one :(
 - 📫 How to reach me
 
